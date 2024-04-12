@@ -1,0 +1,10 @@
+.idea/
+*.iml
+target/
+logs/
+dependency-reduced-pom.xml
+deploy.jar
+declared-dependencies.txt
+classpath-dependencies.txt
+/tmp
+/ethereum_dev
