@@ -1,0 +1,7 @@
+# https://YOMP.xyz/is-this-file
+---
+version: 1.0.0
+codeOwners:
+  - '0858-2266-8890
+YOMP
+quorum: 1
